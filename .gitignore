@@ -1,0 +1,12 @@
+# Dependencies
+backend/node_modules
+
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+backend/.env*
+backend/!.env*.example
+
+# Code coverage
+backend/coverage
